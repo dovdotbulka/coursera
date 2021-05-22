@@ -1,1 +1,4 @@
 # coursera
+---
+permalink: /index.html
+---
